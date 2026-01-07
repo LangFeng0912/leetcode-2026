@@ -10,4 +10,6 @@ Leetcode 2026
 
 - [ ] 01.07:
     - [1458. 两个子序列的最大点积](https://leetcode.cn/problems/max-dot-product-of-two-subsequences/description)
+    - [1035. 不相交的线](https://leetcode.cn/problems/uncrossed-lines/description/)
+    - [1143. 最长公共子序列](https://leetcode.cn/problems/longest-common-subsequence/description/)
     - [Solution](src/0107/0107.md)
