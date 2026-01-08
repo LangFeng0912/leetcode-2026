@@ -17,4 +17,5 @@ Leetcode 2026
 - [ ] 01.08:
     - [865. 具有所有最深节点的最小子树](https://leetcode.cn/problems/smallest-subtree-with-all-the-deepest-nodes/description)
     - [1123. 最深叶节点的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/description/)
+    - [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description)
     - [Solution](src/0108/0108.md)
