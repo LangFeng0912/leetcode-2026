@@ -19,3 +19,7 @@ Leetcode 2026
     - [1123. 最深叶节点的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/description/)
     - [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description)
     - [Solution](src/0108/0108.md)
+
+- [ ] 01.10:
+    - [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/)
+    - [Solution](src/0110/0110.md)
