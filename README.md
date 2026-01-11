@@ -23,3 +23,7 @@ Leetcode 2026
 - [ ] 01.10:
     - [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/)
     - [Solution](src/0110/0110.md)
+
+- [ ] 01.11 
+    - [ ] [42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/)
+    - [ ] [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/description/?envType=daily-question&envId=2026-01-11)
