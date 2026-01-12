@@ -30,5 +30,7 @@ Leetcode 2026
 
     
 - [ ] 01.12
-    - [ ] 每日温度
+    - [739. 每日温度](https://leetcode.cn/problems/daily-temperatures/description/)
+    - [Solution](src/0112/0112.md)
+    
     - [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/description/?envType=daily-question&envId=2026-01-11)
