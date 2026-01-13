@@ -32,5 +32,11 @@ Leetcode 2026
 - [ ] 01.12
     - [739. 每日温度](https://leetcode.cn/problems/daily-temperatures/description/)
     - [Solution](src/0112/0112.md)
-    
-    - [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/description/?envType=daily-question&envId=2026-01-11)
+
+- [ ] 01.13
+    - [496. 下一个更大元素 I](https://leetcode.cn/problems/next-greater-element-i/description/)
+        - 两个数组 如何确定一个数组在另一个数组位置, `hashMap<nums[i],i>`用数值找下标
+    - [503. 下一个更大元素 II](https://leetcode.cn/problems/next-greater-element-ii/description/)
+
+
+- [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/description/?envType=daily-question&envId=2026-01-11)
