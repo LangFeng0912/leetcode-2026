@@ -40,3 +40,6 @@ Leetcode 2026
 
 - [ ] 01.15
     - [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/description/?envType=daily-question&envId=2026-01-11)
+
+- [ ] 01.16
+    - [3047. 求交集区域内的最大正方形面积](https://leetcode.cn/problems/find-the-largest-area-of-square-inside-two-rectangles/?envType=daily-question&envId=2026-01-17)
