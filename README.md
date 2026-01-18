@@ -43,6 +43,8 @@ Leetcode 2026
 
 - [ ] 01.16
     - [3047. 求交集区域内的最大正方形面积](https://leetcode.cn/problems/find-the-largest-area-of-square-inside-two-rectangles/?envType=daily-question&envId=2026-01-17)
+    - [Solution](/src/0116/0116.md)
 
 - [ ] 01.18
     - [1292. 元素和小于等于阈值的正方形的最大边长](https://leetcode.cn/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/?envType=daily-question&envId=2026-01-19)
+    - [Solution](/src/0118/0118.md)
