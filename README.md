@@ -51,3 +51,4 @@ Leetcode 2026
 
 - [ ] 01.19
     - [3314. 构造最小位运算数组 I](https://leetcode.cn/problems/construct-the-minimum-bitwise-array-i/description/?envType=daily-question&envId=2026-01-20)
+    - [Solution](/src/0119/0119.md)
