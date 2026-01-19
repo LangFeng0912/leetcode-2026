@@ -48,3 +48,6 @@ Leetcode 2026
 - [ ] 01.18
     - [1292. 元素和小于等于阈值的正方形的最大边长](https://leetcode.cn/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/?envType=daily-question&envId=2026-01-19)
     - [Solution](/src/0118/0118.md)
+
+- [ ] 01.19
+    - [3314. 构造最小位运算数组 I](https://leetcode.cn/problems/construct-the-minimum-bitwise-array-i/description/?envType=daily-question&envId=2026-01-20)
