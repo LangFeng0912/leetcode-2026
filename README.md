@@ -52,3 +52,9 @@ Leetcode 2026
 - [ ] 01.19
     - [3314. 构造最小位运算数组 I](https://leetcode.cn/problems/construct-the-minimum-bitwise-array-i/description/?envType=daily-question&envId=2026-01-20)
     - [Solution](/src/0119/0119.md)
+
+- [ ] 01.20
+    - [645. 错误的集合](https://leetcode.cn/problems/set-mismatch/description/)
+    - [1365. 有多少小于当前数字的数字](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
+    - [448. 找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/description/)
+    - [Solution](/src/0120/0120.md)
