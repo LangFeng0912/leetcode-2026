@@ -58,3 +58,8 @@ Leetcode 2026
     - [1365. 有多少小于当前数字的数字](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
     - [448. 找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/description/)
     - [Solution](/src/0120/0120.md)
+
+- [ ] 01.21
+    - [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/description/)
+    - [3507. 移除最小数对使数组有序 I](https://leetcode.cn/problems/minimum-pair-removal-to-sort-array-i/description/?envType=daily-question&envId=2026-01-22)
+    - [Solution](/src/0121/0121.md)
