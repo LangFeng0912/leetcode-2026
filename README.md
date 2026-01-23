@@ -63,3 +63,8 @@ Leetcode 2026
     - [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/description/)
     - [3507. 移除最小数对使数组有序 I](https://leetcode.cn/problems/minimum-pair-removal-to-sort-array-i/description/?envType=daily-question&envId=2026-01-22)
     - [Solution](/src/0121/0121.md)
+
+- [ ] 01.23
+    - [1877. 数组中最大数对和的最小值](https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/description/)
+    - [1441. 用栈操作构建数组](https://leetcode.cn/problems/build-an-array-with-stack-operations/description/)
+    - [150. 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/)
