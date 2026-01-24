@@ -68,3 +68,10 @@ Leetcode 2026
     - [1877. 数组中最大数对和的最小值](https://leetcode.cn/problems/minimize-maximum-pair-sum-in-array/description/)
     - [1441. 用栈操作构建数组](https://leetcode.cn/problems/build-an-array-with-stack-operations/description/)
     - [150. 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/description/)
+
+- [ ] 01.24
+    - [636. 函数的独占时间](https://leetcode.cn/problems/exclusive-time-of-functions/description/)
+    - [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/)
+    - [1700. 无法吃午餐的学生数量](https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/description/)
+    - [2073. 买票需要的时间](https://leetcode.cn/problems/time-needed-to-buy-tickets/description/)
+    - [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/description/)
