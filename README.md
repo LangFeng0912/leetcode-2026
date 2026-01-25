@@ -75,3 +75,8 @@ Leetcode 2026
     - [1700. 无法吃午餐的学生数量](https://leetcode.cn/problems/number-of-students-unable-to-eat-lunch/description/)
     - [2073. 买票需要的时间](https://leetcode.cn/problems/time-needed-to-buy-tickets/description/)
     - [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/description/)
+
+- [ ] 01.25
+    - [1200. 最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference/description/)
+    - [1046. 最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight/description/)
+    - [373. 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/description/)
