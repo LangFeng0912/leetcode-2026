@@ -80,3 +80,10 @@ Leetcode 2026
     - [1200. 最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference/description/)
     - [1046. 最后一块石头的重量](https://leetcode.cn/problems/last-stone-weight/description/)
     - [373. 查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/description/)
+
+- [ ] 01.26
+    - [98. 可达路径](https://kamacoder.com/problempage.php?pid=1170)
+    - [图的深度搜索](/src/0126/0126.md)
+
+- [ ] 01.27
+    - [ ] (797. 所有可能的路径)[https://leetcode.cn/problems/all-paths-from-source-to-target/description/]
