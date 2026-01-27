@@ -86,4 +86,6 @@ Leetcode 2026
     - [图的深度搜索](/src/0126/0126.md)
 
 - [ ] 01.27
-    - [ ] (797. 所有可能的路径)[https://leetcode.cn/problems/all-paths-from-source-to-target/description/]
+    - [797. 所有可能的路径](https://leetcode.cn/problems/all-paths-from-source-to-target/description/)
+    - [200. 岛屿数量](https://leetcode.cn/problems/number-of-islands/description/)
+    - [695. 岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/description/)
