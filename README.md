@@ -89,3 +89,8 @@ Leetcode 2026
     - [797. 所有可能的路径](https://leetcode.cn/problems/all-paths-from-source-to-target/description/)
     - [200. 岛屿数量](https://leetcode.cn/problems/number-of-islands/description/)
     - [695. 岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island/description/)
+
+- [ ] 01.28
+    - [101. 孤岛的总面积](https://kamacoder.com/problempage.php?pid=1173)
+    - [102. 沉没孤岛](https://kamacoder.com/problempage.php?pid=1174)
+    - 注意边界！！
