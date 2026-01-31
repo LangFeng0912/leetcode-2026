@@ -99,3 +99,6 @@ Leetcode 2026
     - [103. 高山流水](https://kamacoder.com/problempage.php?pid=1175)
     - [104. 建造最大岛屿](https://kamacoder.com/problempage.php?pid=1176)
     - [solution](/src/0129/0129.md)
+
+- [ ] 01.31 
+    - [105. 有向图的完全联通](https://kamacoder.com/problempage.php?pid=1177) 
