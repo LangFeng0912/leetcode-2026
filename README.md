@@ -102,3 +102,6 @@ Leetcode 2026
 
 - [ ] 01.31 
     - [105. 有向图的完全联通](https://kamacoder.com/problempage.php?pid=1177) 
+    - [110. 字符串迁移](https://kamacoder.com/problempage.php?pid=1183)
+    - [127. 单词接龙](https://leetcode.cn/problems/word-ladder/description/)
+        - 注意bfs从栈里pop的时候，要for循环 poll出所有
