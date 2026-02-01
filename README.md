@@ -105,3 +105,7 @@ Leetcode 2026
     - [110. 字符串迁移](https://kamacoder.com/problempage.php?pid=1183)
     - [127. 单词接龙](https://leetcode.cn/problems/word-ladder/description/)
         - 注意bfs从栈里pop的时候，要for循环 poll出所有
+
+- [ ] 02.01
+    - [1971. 寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph/description/)
+    - [并查集](/src/0201/0201.md)
