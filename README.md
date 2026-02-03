@@ -109,3 +109,7 @@ Leetcode 2026
 - [ ] 02.01
     - [1971. 寻找图中是否存在路径](https://leetcode.cn/problems/find-if-path-exists-in-graph/description/)
     - [并查集](/src/0201/0201.md)
+
+- [ ] 02.02
+    - [684. 冗余连接](https://leetcode.cn/problems/redundant-connection/description/)
+    - [685. 冗余连接 II](https://leetcode.cn/problems/redundant-connection-ii/description/)
