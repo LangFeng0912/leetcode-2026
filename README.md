@@ -118,3 +118,7 @@ Leetcode 2026
     - [77. 组合](https://leetcode.cn/problems/combinations/description/)
     - [216. 组合总和 III](https://leetcode.cn/problems/combination-sum-iii/description/)
     - [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/description/)
+
+- [ ] 02.05
+    - [39. 组合总和](https://leetcode.cn/problems/combination-sum/description/)
+    - [40. 组合总和 II](https://leetcode.cn/problems/combination-sum-ii/description/)
