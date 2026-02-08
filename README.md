@@ -122,3 +122,15 @@ Leetcode 2026
 - [ ] 02.05
     - [39. 组合总和](https://leetcode.cn/problems/combination-sum/description/)
     - [40. 组合总和 II](https://leetcode.cn/problems/combination-sum-ii/description/)
+
+- [ ] 02.06
+    - [376. 摆动序列](https://leetcode.cn/problems/wiggle-subsequence/description/)
+    - [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/description/)
+    - [122. 买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/description/)
+    - [55. 跳跃游戏](https://leetcode.cn/problems/jump-game/description/)
+    - [45. 跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/description/)
+
+- [ ] 02.08
+    - [509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/description/)
+    - [70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs/description/)
+    - [746. 使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/description/)
